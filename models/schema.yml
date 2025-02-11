@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: gz_raw_data
+    description: raw data about gz
+    tables:
+      - name: raw_gz_produc
+        description: products gz
+
+      - name: raw_gz_sales
+        description: sales gz
+
+      - name: raw_gz_ship
+        description: ship gz
